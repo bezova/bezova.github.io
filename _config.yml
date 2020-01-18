@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My Little cousy blog.
-description: My name andrey andd this site is my personal blog space. I will put whatever I like to here... ❤
+title: My Little Cousy Blog 😎
+description: This is my personal space👀 I will put whatever I like to here... ❤
 github_username: bezova
 
 # Email and twitter are optional:
 email: 
-twitter_username: Andrey_Bezov
+twitter_username: andrey_bezov
 
 # Set this to true to get LaTeX math equation support
 use_math: 
